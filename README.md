@@ -1,4 +1,6 @@
 # congress_expenses
 Project for evaluating the Brazilian Congressmen's refundable expenses.
 
-Last updated in 06/01/2021
+Tableau Public Dashboard: https://public.tableau.com/profile/davidgrbio#!/vizhome/BrazilianCongressmensRefundableExpenses/Dashboard?publish=yes
+
+Last updated: January, 2021
