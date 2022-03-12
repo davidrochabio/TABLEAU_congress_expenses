@@ -1,5 +1,4 @@
 # congress_expenses
-![plot](screenshots/tableau.jpg)
 
 Project for evaluating the Brazilian Congressmen's refundable expenses.
 
