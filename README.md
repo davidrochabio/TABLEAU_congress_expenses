@@ -1,5 +1,7 @@
 # congress_expenses
 
+![plot](screenshots/tableau_congress.jpg)
+
 Project for evaluating the Brazilian Congressmen's refundable expenses.
 
 Tableau Public Dashboard: https://public.tableau.com/profile/davidgrbio#!/vizhome/BrazilianCongressmensRefundableExpenses/Dashboard?publish=yes
