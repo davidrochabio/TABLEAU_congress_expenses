@@ -1,11 +1,8 @@
 # This file may be used to create an environment using:
 # $ conda create --name <env> --file <this file>
 # platform: win-64
-numpy=1.19.5=pypi_0
 openpyxl=3.0.5=pypi_0
-pandas=1.2.0=pypi_0
+pandas=1.4.1=pypi_0
 python=3.8.3=he1778fa_2
 requests=2.25.1=pypi_0
-scipy=1.6.1=pypi_0
 seaborn=0.11.1=pypi_0
-xlrd=2.0.1=pypi_0
