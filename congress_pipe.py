@@ -1,7 +1,6 @@
 # To add a new cell, type '# %%'
 # To add a new markdown cell, type '# %% [markdown]'
 # %%
-from IPython import get_ipython
 
 # %%
 import requests
@@ -93,7 +92,6 @@ all_in_one.info()
 
 
 # %%
-get_ipython().system('pip install openpyxl')
 all_in_one.to_excel('all_congs_expenses.xlsx')
 
 
